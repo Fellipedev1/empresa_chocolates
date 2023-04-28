@@ -1,0 +1,117 @@
+body{background-image: url('unnamed.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  }
+
+h1{
+  text-align: ;
+}
+
+img{
+height: 550px;
+display: block;
+margin: 0 auto;
+} 
+
+.teste{
+  text-align: center;
+ font-family:  Tahoma;
+}
+.felipe{
+
+
+   
+}
+
+#produto1{
+       
+align-items: center;
+width: 30px;
+
+height: 30px;
+}
+ .texto{
+      text-align: center;
+
+
+}
+.texto2{
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+      
+  }
+  
+  .imagem{
+    align-items: center;
+    height:max-content ,2px;
+    width:max-content, 20px;
+
+      
+
+  }
+
+ .table{
+  justify-content: left;
+ padding-right: 30%;
+ margin-left: 80%;
+ }
+
+ .video{
+   padding-right:80% ;
+ margin-right: 80%;
+justify-self: center;
+
+ }
+ video{
+  max-width: 60%;
+  max-height: 50%;
+
+ }
+
+ .tudo{
+             
+  
+  padding-right:80% ;
+  margin-right: 70%;
+
+
+ }
+
+#buton{
+  background-color: black;
+   
+
+}
+
+footer{
+  text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.galo{
+ height: 70;
+ width: 20;
+
+}
+p{
+
+  font-family:Arial, Helvetica;
+}
+
+.obrigado{
+text-align: center;
+
+}
+  
+.video-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* altura pode ser ajustada de acordo com sua necessidade */
+}
+
+video {
+  max-width: 60%;
+  max-height: 50%;
+}
